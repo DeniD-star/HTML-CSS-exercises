@@ -1,0 +1,26 @@
+/* TODO: style the html*/
+
+
+main {
+  width: 900px;
+  height: 140px;
+}
+
+img {
+  display: inline-block;
+  border-right: 1px solid #d1d1d1;
+  margin-left: 0;
+
+  /* o	Float the images on the left */
+  margin-right: 19px;
+  padding-right: 19px;
+}
+
+main p {
+  display: inline-block;
+  font-size: 20px;
+  line-height: 30px;
+  color: #2e2e2e;
+  text-align: justify;
+
+}
