@@ -1,0 +1,55 @@
+a {
+  color: rgb(0, 102, 0);
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+  display: inline-block;
+}
+
+img {
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+section img:first-child {
+  float: right;
+  height: 250px;
+}
+aside {
+  display: inline-block;
+}
+blockquote{
+    font-family: Georgia, serif;
+}
+
+header p,
+header nav,
+header nav ul li {
+  display: inline-block;
+  padding-right: 20px;
+  
+}
+
+header {
+    position: relative;
+
+}
+
+header nav{
+    position: absolute;
+    right: 50px;
+}
+main{
+    display: inline-block;
+    width: 70%;
+
+}
+aside{
+    display: inline-block;
+    width: 30%;
+}
+
+
+
+
